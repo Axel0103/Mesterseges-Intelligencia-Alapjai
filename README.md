@@ -1,4 +1,4 @@
-# Mesterseges-Intelligencia-Alapjai
+# Mesterseges Intelligencia Alapjai 
 
 ## 2.28.-as feladat
 
